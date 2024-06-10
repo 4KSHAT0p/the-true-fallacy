@@ -1,2 +1,4 @@
 # the-true-fallacy
-A game made with C language
+A 2D multiplayer game made with SDL and C.
+
+score system and gameover effects are not yet completed.
