@@ -404,7 +404,6 @@ void collision()
 
     if (!tohno.health || !ryougi.health)
     {
-        SDL_Delay(1000);
         RESET();
     }
 }
