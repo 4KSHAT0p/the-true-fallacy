@@ -24,7 +24,7 @@ The game's characters are based on
     | Space         | Jump                 |
     | X             | Attack               |
 
-    For the female character named "**Shiki Ryougi**"
+    For the female character named "**Shiki Ryougi**" :
     | Key           | Action               |
     | ------------- | -------------------- |
     | 4 (numpad)    | Move Left            |
