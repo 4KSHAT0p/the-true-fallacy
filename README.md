@@ -61,9 +61,7 @@ The game's characters are based on
 2. Extract the files and copy the all header files from "x86_64-w64-mingw32/include/SDL2" folder to a new folder named "sdl" and move that folder to the project's include directory which I have already provided in the repository.
 3. Copy the lib folder from the "x86_64-w64-mingw32" folder to the project directory as it is.
 4. Now for the DLL files, copy the dll files present in "x86_64-w64-mingw32/bin" and paste them in the project directory (dont create new folder for these).
-5. Do the same for:
-
-[SDL_image](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.8.2-mingw.tar.gz) ,
+5. Do the same for: [SDL_image](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.8.2-mingw.tar.gz) ,
 [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.22.0-mingw.tar.gz) ,
 [SDL_Mixer](https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-devel-2.8.0-mingw.tar.gz).
     
