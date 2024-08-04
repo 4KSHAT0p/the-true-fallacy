@@ -1,6 +1,6 @@
 # The-True-Fallacy
 
-The True Fallacy is a simple 2D fighting game developed using SDL2 and it's sub-libraries. The game features two characters that players can control to engage in combat within a beautifully rendered environment. This project serves as an introduction to game development concepts such as animation, collision detection, and sprite handling.
+The True Fallacy is a simple 2D fighting game developed C language ,SDL2 and it's sub-libraries. The game features two characters that players can control to engage in combat within a beautifully rendered environment. This project serves as an introduction to game development concepts such as animation, collision detection, and sprite handling.
 
 The game's characters are based on
 #### https://typemoon.fandom.com/wiki/Shiki_Tohno
