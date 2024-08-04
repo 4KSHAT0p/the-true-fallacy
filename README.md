@@ -47,7 +47,7 @@ The game's characters are based on
 
 
 
-## Prerequisites
+## Prerequisites:
 
 - SDL2
 - SDL2_image
@@ -55,7 +55,7 @@ The game's characters are based on
 - SDL2_mixer
 - gcc compiler
 
-### Building on Windows
+### Building on Windows:
 
 1. Download the "SDL2-devel-2.30.6-mingw.tar.gz" from [here](https://github.com/libsdl-org/SDL/releases/tag/release-2.30.6).
 2. Extract the files and copy the all header files from "x86_64-w64-mingw32/include/SDL2" folder to a new folder named "sdl" and move that folder to the project's include directory which I have already provided in the repository.
