@@ -53,7 +53,7 @@ The game's characters are based on
 - SDL2_image
 - SDL2_ttf
 - SDL2_mixer
-- gcc
+- gcc compiler
 
 ### Building on Windows
 
