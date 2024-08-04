@@ -65,6 +65,6 @@ The game's characters are based on
 [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.22.0-mingw.tar.gz) ,
 [SDL_Mixer](https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-devel-2.8.0-mingw.tar.gz).
     
-6. Compile the project using the provided `Makefile`.
+6. Compile the project using the provided `MakeFile`.
 7. Run the `Main.exe` using `./main`.
 
