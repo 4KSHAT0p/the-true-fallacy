@@ -43,6 +43,9 @@ The game's characters are based on
 
 ![tt2](https://github.com/user-attachments/assets/1678b7c4-e801-44fa-8bd6-f56d84b0890f)
 
+https://github.com/user-attachments/assets/fbd20344-7b2d-47a1-a28a-18a7c6b12956
+
+
 # About SDL
 
 - **[SDL2](https://www.libsdl.org/)**  
