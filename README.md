@@ -33,7 +33,7 @@ The game's characters are based on
     | Enter (numpad)| Attack               |
 
 
-## Screenshots:
+## Samples:
 
 ![Screenshot 2023-06-05 002453](https://github.com/user-attachments/assets/0b6cd76a-c356-4f43-bdb4-6f9847d8fac3)
 
